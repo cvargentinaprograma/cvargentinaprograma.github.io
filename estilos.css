@@ -1,0 +1,61 @@
+#Principal{
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background-color: aqua;
+
+}
+
+
+
+fieldset {
+    margin-bottom: 10px;
+
+}
+
+legend {
+
+    border: solid 1px #b5d5f8;
+    padding: 5px;
+    font-weight: bold;
+    background: #cccccc;
+    border-radius: 15px;
+
+}
+
+#mifoto {
+        
+    border: solid 2px;
+    margin: 10px;
+    width: 30%;
+    height: 30%;
+}
+
+body {
+    
+    background:url(https://www.mapfreglobalrisks.com/media/Imagen-Portada-adaptada-1-2.jpg) ;
+
+}
+
+
+#formulario{
+      
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background-color: red;
+
+
+}
+
+#texto {
+    text-align: center;
+}
+
+
+
+
+
+
